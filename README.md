@@ -1,0 +1,2 @@
+# JavaForBegin
+JavaNotes
