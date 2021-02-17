@@ -21,4 +21,10 @@ Chart
         RepetitiveStatement
         
         baseball
+    
+    d_array
+        array
         
+        quiz
+        
+        Score
