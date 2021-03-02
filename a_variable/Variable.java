@@ -79,21 +79,21 @@ public class Variable { //클래스
 			System.out.printf("문자열 : %s, 숫자: %d", "안녕", 10);
 			System.out.println();
 			
-/*			Scanner sc = new Scanner(System.in);*/
-			/*System.out.println("아무거나 입력해주세요.");
+/*			Scanner sc = new Scanner(System.in);
+			System.out.println("아무거나 입력해주세요.");
 			sc.nextLine();
 			String str2 = sc.nextLine();
-			System.out.println("입력받은 내용: "+ str2);*/
+			System.out.println("입력받은 내용: "+ str2);
 			
-			/*System.out.println("int 입력>");
+			System.out.println("int 입력>");
 			int nextInt = sc.nextInt(); 
 			System.out.println(nextInt);
 			System.out.println("문자열 입력>");
 			String nextLine = sc.nextLine();
 			System.out.println(nextLine);
-			System.out.println("입력 끝!");*/
+			System.out.println("입력 끝!");
 			
-/*		System.out.println("int입력");
+		System.out.println("int입력");
 		int number = Integer.parseInt(sc.nextLine());
 		System.out.println(number);*/
 		
