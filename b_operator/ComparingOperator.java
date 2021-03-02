@@ -11,8 +11,8 @@ public static void main(String[] args){
 	int x = 10;
 	int y =20;
 	boolean b = x <y; //비교연산의 결과는 boolean이다.
-/*	System.out.println(b);
-	b= x <= y -15; //산술연산 후 비교연산을 수행한다.
+System.out.println(b);
+/*	b= x <= y -15; //산술연산 후 비교연산을 수행한다.
 	System.out.println(b);
 	//산술연산의 우선순위가 더 높다.
 	
@@ -28,7 +28,6 @@ public static void main(String[] args){
 
 	b= !str1.equals(str2); //!를 붙여주면 같지 않다는 표현을 하는 것이다. 
 	System.out.println(b);
-	*/
 	//다음의 문장들을 코드로 작성해주세요.
 	
 //1. x가 y보다 크다.
@@ -45,7 +44,7 @@ public static void main(String[] args){
 	b = y % 2 == 1;
 	
 	System.out.println(b);
-	
+	*/
 	
 			//. 4. 기본형과 참조형은 다르다.
 			String a = "기본형";

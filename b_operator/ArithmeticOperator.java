@@ -10,9 +10,9 @@ public class ArithmeticOperator {
 		
 			result = 10 %3;
 			 
-			System.out.println(result);*/
+			System.out.println(result);
 		//5개의 산술연산자를 사용해 5개의 연산을 수행 후 출력해주세요.
-/*			
+			
 			int result1 = 10+10;
 			int result2 = 20-20;
 			int result3 = 30*30;
@@ -24,7 +24,7 @@ public class ArithmeticOperator {
 			System.out.println(result3);
 			System.out.println(result4);
 			System.out.println(result5);
-			
+	
 	//복합연산자
 	//변수에 저장되어있는 값에 연산을 수행할 때 수행할 연산자와 대입연산자를 결합해 사용할 수 있다. 
 		result += 3;
@@ -45,7 +45,7 @@ public class ArithmeticOperator {
 		
 //아래의 문장을 복합연산자를 사용한 문장으로 만들어주세요
 		//result = result + 10;
-/*		
+	
 		result += 10;
 		System.out.println(result);
 		
@@ -110,7 +110,7 @@ public class ArithmeticOperator {
 		b--;
 		System.out.println(b);
 		//가장 작은 값을 벗어나면 가장 큰 값이 된다.
-		*/
+
 		
 		//다음을 한줄씩 계산해서 최종 결과값을 출력해주셍쵸.
 		
